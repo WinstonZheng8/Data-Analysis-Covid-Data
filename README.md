@@ -1,6 +1,23 @@
-# Data Analysis
+In the summer of 2022, I developed an interactive COVID-19 dashboard to visualize the global impact of the pandemic from 2020 to 2021. 
 
-To familiarize myself with data analysis, I worked on a Data Analyst Portfolio Project during the summer of 2022. I made a Covid Dashboard using the data from 2020-2021 extracted from ourworldindata webpage. It was a good experience practicing with Excel, SQL, and tableau for data processing, cleaning, and visualization. It helped me practice programming skills I learned from taking online classes from Coursera and Udemy. The dashboard contains information about the total covid cases around the world and a map that shows the percent of population infected, and a line chart showing the top five countries with the most percentage of their population infected. All of this is done using SQL queries and data extracted from excel.
+The objective of the project was to aggregate and present key statistics related to COVID-19 cases and deaths using data extracted from the Our World in Data repository via Excel and SQL.
+
+Using Tableau, I designed a comprehensive dashboard featuring:
+- Global metrics, including total COVID-19 cases (over 150 million), total deaths (over 3.1 million), and the global death percentage (2.11%).
+
+
+- A world map showing the percent of the population infected per country, with a color gradient highlighting the severity of spread (ranging from 0% to over 17%).
+
+
+- A bar chart comparing total deaths by continent, revealing that Europe and North America had the highest death tolls, followed by South America, Asia, Africa, and Oceania.
+
+
+- A time-series line chart tracking the average percentage of population infected from January 2020 to April 2021 in the top five countries (United States, United Kingdom, Mexico, India, and China), showing a steep rise starting mid-2020.
+
+
+All data cleaning and extraction were performed using SQL queries within Excel, and I applied skills I gained from Udemy and Coursera courses in both Excel and SQL. 
+This project improved my data visualization and storytelling skills while reinforcing my knowledge of data integration and dashboard design for real-world public health monitoring.
+
 
 [Visualization of our findings](https://public.tableau.com/app/profile/winston.l.zheng/viz/CovidDashboard_16624964552000/Dashboard1)
 
